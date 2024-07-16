@@ -96,5 +96,9 @@
       "hwid": "",
       "name": ""
     }
-  ]
+  ],
+  "info": {
+    "version": "v1.2",
+    "status": "On"
+  }
 }
