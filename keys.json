@@ -67,10 +67,10 @@
       "hwid": "00330-80000-00000-AA525"
     },
     {
-      "discord_id": "",
-      "nickname": "",
-      "key": "",
-      "hwid": ""
+      "discord_id": "400396514901622795",
+      "nickname": "Gabbie",
+      "key": "V7nT5kH4wS2y",
+      "hwid": "00330-80000-00000-AA338"
     },
     {
       "discord_id": "",
@@ -98,7 +98,7 @@
     }
   ],
   "info": {
-    "version": "1.22", 
+    "version": "1.25", 
     "status": "On"
   }
 }
