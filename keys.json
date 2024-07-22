@@ -1,6 +1,13 @@
 {
   "keys": [
     {
+      "discord_id": "324097778664079363",
+      "nickname": "goat",
+      "key": "123456789012",
+      "hwid": "00331-10000-00001-AA882"
+    },
+
+    {
       "discord_id": "920416874196504686",
       "nickname": "Leaf",
       "key": "F4cP9vR6nH2m",
@@ -81,7 +88,7 @@
   ],
   "ADMIN": [
     {
-      "hwid": "00331-10000-00001-AA882",
+      "hwid": "",
       "name": "Christopher The Third"
     },
     {
