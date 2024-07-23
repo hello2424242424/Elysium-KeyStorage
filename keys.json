@@ -4,7 +4,7 @@
       "discord_id": "324097778664079363",
       "nickname": "goat",
       "key": "123456789012",
-      "hwid": "00331-10000-00001-AA882"
+      "hwid": ""
     },
 
     {
@@ -88,7 +88,7 @@
   ],
   "ADMIN": [
     {
-      "hwid": "",
+      "hwid": "00331-10000-00001-AA882",
       "name": "Christopher The Third"
     },
     {
