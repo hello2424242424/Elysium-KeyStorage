@@ -80,11 +80,33 @@
       "hwid": "00330-80000-00000-AA338"
     },
     {
+      "discord_id": "239493686940008460",
+      "nickname": "Nav",
+      "key": "P3oH2qC9vG5a",
+      "hwid": "00325-82120-88495-AAOEM"
+    },
+
+    {
+      "discord_id": "",
+      "nickname": "",
+      "key": "",
+      "hwid": ""
+    },
+
+    {
+      "discord_id": "",
+      "nickname": "",
+      "key": "",
+      "hwid": ""
+    },
+
+    {
       "discord_id": "",
       "nickname": "",
       "key": "",
       "hwid": ""
     }
+
   ],
   "ADMIN": [
     {
