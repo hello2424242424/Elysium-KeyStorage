@@ -6,7 +6,6 @@
       "key": "123456789012",
       "hwid": "00331-10000-00001-AA882"
     },
-
     {
       "discord_id": "920416874196504686",
       "nickname": "Leaf",
@@ -85,28 +84,24 @@
       "key": "P3oH2qC9vG5a",
       "hwid": "00325-82120-88495-AAOEM"
     },
-
     {
       "discord_id": "",
       "nickname": "",
       "key": "",
       "hwid": ""
     },
-
     {
       "discord_id": "",
       "nickname": "",
       "key": "",
       "hwid": ""
     },
-
     {
       "discord_id": "",
       "nickname": "",
       "key": "",
       "hwid": ""
     }
-
   ],
   "ADMIN": [
     {
@@ -125,9 +120,10 @@
       "hwid": "",
       "name": ""
     }
-  ],  
+  ],
+  
   "info": {
-    "version": "1.311", 
+    "version": "1.311",
     "status": "On"
   }
 }
